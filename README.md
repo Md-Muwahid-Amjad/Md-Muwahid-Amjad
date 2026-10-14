@@ -7,10 +7,10 @@
 <h2>Aspiring AWS Cloud Engineer | Cloud Infrastructure | Linux | Networking</h2>
 <p>Muwahid | Official Portfolio<br />
 Cloud Infrastructure &amp; Networking<br />
-https://aws-portfolio-bice.vercel.app/</p>
+https://mushahid-aws-portfolio.vercel.app/</p>
 <p><strong>● Building practical cloud skills &amp; sharing work in public</strong></p>
 
-<p><a href="https://github.com/Md-Muwahid-Amjad">GitHub</a> · <a href="https://aws-portfolio-bice.vercel.app/">Portfolio</a></p>
+<p><a href="https://github.com/Md-Muwahid-Amjad">GitHub</a> · <a href="https://mushahid-aws-portfolio.vercel.app/">Live Portfolio</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://avatars.githubusercontent.com/u/342171983?v=4" width="180" alt="Md Muwahid Amjad GitHub avatar" />
@@ -31,7 +31,7 @@ https://aws-portfolio-bice.vercel.app/</p>
 
 <p><sub>Md Muwahid Amjad | Official Portfolio 
 Cloud Infrastructure &amp; Networking 
- https://aws-portfolio-bice.vercel.app/</sub></p>
+ https://mushahid-aws-portfolio.vercel.app/</sub></p>
 
 <h2>Proof at a glance</h2>
 
@@ -56,16 +56,16 @@ Cloud Infrastructure &amp; Networking
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
-<h3><a href="https://aws-portfolio-bice.vercel.app/">AWS VPC Network Architecture</a></h3>
-<p>Configured custom VPC, public &amp; private subnets, CIDR blocks, route tables, and Internet Gateway. Implemented robust network security controls with Security Groups and Network ACLs.</p>
-<p><sub>AWS VPC · Subnets · CIDR · Route Tables · Internet Gateway</sub></p>
-<p><a href="https://aws-portfolio-bice.vercel.app/">View on Portfolio →</a></p>
+<h3><a href="https://github.com/Md-Muwahid-Amjad/portfolio-muwahid">AWS Cloud Portfolio Website</a></h3>
+<p>Modern, responsive personal cloud portfolio showcasing AWS projects, technical skill matrix, and architecture labs. Deployed on Vercel Edge with global CDN caching.</p>
+<p><sub>HTML5 · CSS3 · Vercel · Responsive Design</sub></p>
+<p><a href="https://github.com/Md-Muwahid-Amjad/portfolio-muwahid">View Repository →</a> · <a href="https://mushahid-aws-portfolio.vercel.app/">Live Demo →</a></p>
 </td>
 <td width="45%" valign="top">
-<h3><a href="https://aws-portfolio-bice.vercel.app/">EC2 Web Server Deployment</a></h3>
-<p>Launched and configured Amazon EC2 virtual servers, configured secure remote SSH access, configured security group ingress/egress rules, and verified web server availability.</p>
-<p><sub>Amazon EC2 · Ubuntu Linux · SSH · Security Groups · HTTP</sub></p>
-<p><a href="https://aws-portfolio-bice.vercel.app/">View on Portfolio →</a></p>
+<h3><a href="https://mushahid-aws-portfolio.vercel.app/">AWS VPC Network Architecture</a></h3>
+<p>Configured custom VPC, public &amp; private subnets, CIDR blocks, route tables, and Internet Gateway. Implemented robust network security controls with Security Groups and Network ACLs.</p>
+<p><sub>AWS VPC · Subnets · CIDR · Route Tables · Internet Gateway</sub></p>
+<p><a href="https://mushahid-aws-portfolio.vercel.app/">View on Portfolio →</a></p>
 </td>
 </tr>
 </table>
@@ -73,19 +73,19 @@ Cloud Infrastructure &amp; Networking
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-<h3><a href="https://aws-portfolio-bice.vercel.app/">AWS S3 Static Website</a></h3>
+<h3><a href="https://mushahid-aws-portfolio.vercel.app/">EC2 Web Server Deployment</a></h3>
+<p>Provisioned Linux instances, configured SSH access, and configured security groups.</p>
+<p><sub>Amazon EC2 · Ubuntu · SSH · Security Groups</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://mushahid-aws-portfolio.vercel.app/">AWS S3 Static Website</a></h3>
 <p>Static website hosting with S3 bucket policies, access permissions, and custom domain setup.</p>
 <p><sub>Amazon S3 · IAM · Storage · Web</sub></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="https://aws-portfolio-bice.vercel.app/">ALB &amp; Auto Scaling</a></h3>
-<p>Traffic distribution across EC2 instances with target groups, health checks, and elastic scalability.</p>
-<p><sub>Elastic Load Balancing · Auto Scaling · High Availability</sub></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://aws-portfolio-bice.vercel.app/">S3 &amp; CloudFront CDN</a></h3>
-<p>Global edge distribution, secure HTTPS delivery, and cache behavior optimization.</p>
-<p><sub>CloudFront · S3 · HTTPS · CDN Edge</sub></p>
+<h3><a href="https://mushahid-aws-portfolio.vercel.app/">ALB &amp; Auto Scaling</a></h3>
+<p>Traffic distribution across EC2 instances with target groups and elastic scalability.</p>
+<p><sub>ALB · Auto Scaling · High Availability</sub></p>
 </td>
 </tr>
 </table>
@@ -153,7 +153,7 @@ Cloud Infrastructure &amp; Networking
 <p>Open to entry-level Cloud Engineer, Cloud Support Associate, and DevOps roles.</p>
 </td>
 <td width="38%" valign="middle" align="right">
-<p><a href="https://aws-portfolio-bice.vercel.app/">Portfolio</a> · <a href="https://github.com/Md-Muwahid-Amjad">GitHub</a></p>
+<p><a href="https://mushahid-aws-portfolio.vercel.app/">Live Portfolio</a> · <a href="https://github.com/Md-Muwahid-Amjad">GitHub</a></p>
 </td>
 </tr>
 </table>
