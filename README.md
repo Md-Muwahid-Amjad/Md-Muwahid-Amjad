@@ -1,130 +1,159 @@
-MD Mushahid Amjad
+<div align="center">
 
-AWS Cloud Engineer | Cloud Infrastructure | Networking | DevOps
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<h1>Md Muwahid Amjad</h1>
+<h2>Aspiring AWS Cloud Engineer | Cloud Infrastructure | Linux | Networking</h2>
+<p>Muwahid | Official Portfolio<br />
+Cloud Infrastructure &amp; Networking<br />
+https://aws-portfolio-bice.vercel.app/</p>
+<p><strong>● Building practical cloud skills &amp; sharing work in public</strong></p>
 
-Building practical cloud infrastructure skills through AWS projects, Linux administration, networking, deployment, and troubleshooting.
+<p><a href="https://github.com/Md-Muwahid-Amjad">GitHub</a> · <a href="https://aws-portfolio-bice.vercel.app/">Portfolio</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/342171983?v=4" width="180" alt="Md Muwahid Amjad GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-"Portfolio" (YOUR_PORTFOLIO_URL) · "GitHub Projects" (https://github.com/YOUR_USERNAME?tab=repositories) · "LinkedIn" (YOUR_LINKEDIN_URL)
+<h2>What teams can evaluate quickly</h2>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Junior Cloud Engineer · AWS Infrastructure · Linux Administration · Cloud Networking</p></td>
+<td width="33%" valign="top"><h3>Core focus</h3><p>EC2 · S3 · VPC · IAM · CloudWatch · ALB · Auto Scaling</p></td>
+<td width="33%" valign="top"><h3>Hands-on skills</h3><p>Linux &amp; Bash · AWS CLI · Network Architecture · CI/CD &amp; IaC (Learning)</p></td>
+</tr>
+</table>
 
-Professional Summary
+<p><sub>Md Muwahid Amjad | Official Portfolio 
+Cloud Infrastructure &amp; Networking 
+ https://aws-portfolio-bice.vercel.app/</sub></p>
 
-Aspiring Cloud Engineer focused on designing, deploying, and troubleshooting cloud infrastructure using Amazon Web Services. Interested in cloud networking, infrastructure security, high availability, monitoring, and automation.
+<h2>Proof at a glance</h2>
 
-Currently strengthening practical knowledge through hands-on projects and continuous technical learning, with a goal of starting a career in Cloud Engineering or Cloud Support.
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>AWS Cloud</strong><br /><sub>Specialization</sub></td>
+<td width="25%" align="center"><strong>5+</strong><br /><sub>Featured Projects</sub></td>
+<td width="25%" align="center"><strong>Linux &amp; CLI</strong><br /><sub>Systems &amp; Shell</sub></td>
+<td width="25%" align="center"><strong>Networking</strong><br /><sub>VPC, Subnets &amp; Routing</sub></td>
+</tr>
+</table>
 
-Technical Expertise
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=md-muwahid-amjad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F342171983%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=md-muwahid-amjad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F342171983%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Md Muwahid Amjad GitHub proof metrics" />
+</picture>
+</p>
 
-Cloud Infrastructure
+<h2>Selected work</h2>
 
-- Amazon EC2
-- Amazon VPC
-- Amazon S3
-- Amazon EBS
-- AWS IAM
-- Amazon CloudWatch
-- Elastic Load Balancing
-- EC2 Auto Scaling
-- Amazon Route 53
-- Amazon CloudFront
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+<h3><a href="https://aws-portfolio-bice.vercel.app/">AWS VPC Network Architecture</a></h3>
+<p>Configured custom VPC, public &amp; private subnets, CIDR blocks, route tables, and Internet Gateway. Implemented robust network security controls with Security Groups and Network ACLs.</p>
+<p><sub>AWS VPC · Subnets · CIDR · Route Tables · Internet Gateway</sub></p>
+<p><a href="https://aws-portfolio-bice.vercel.app/">View on Portfolio →</a></p>
+</td>
+<td width="45%" valign="top">
+<h3><a href="https://aws-portfolio-bice.vercel.app/">EC2 Web Server Deployment</a></h3>
+<p>Launched and configured Amazon EC2 virtual servers, configured secure remote SSH access, configured security group ingress/egress rules, and verified web server availability.</p>
+<p><sub>Amazon EC2 · Ubuntu Linux · SSH · Security Groups · HTTP</sub></p>
+<p><a href="https://aws-portfolio-bice.vercel.app/">View on Portfolio →</a></p>
+</td>
+</tr>
+</table>
 
-Networking & Security
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3><a href="https://aws-portfolio-bice.vercel.app/">AWS S3 Static Website</a></h3>
+<p>Static website hosting with S3 bucket policies, access permissions, and custom domain setup.</p>
+<p><sub>Amazon S3 · IAM · Storage · Web</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://aws-portfolio-bice.vercel.app/">ALB &amp; Auto Scaling</a></h3>
+<p>Traffic distribution across EC2 instances with target groups, health checks, and elastic scalability.</p>
+<p><sub>Elastic Load Balancing · Auto Scaling · High Availability</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://aws-portfolio-bice.vercel.app/">S3 &amp; CloudFront CDN</a></h3>
+<p>Global edge distribution, secure HTTPS delivery, and cache behavior optimization.</p>
+<p><sub>CloudFront · S3 · HTTPS · CDN Edge</sub></p>
+</td>
+</tr>
+</table>
 
-- IPv4 Addressing and CIDR
-- Public and Private Subnets
-- Route Tables and Internet Gateways
-- NAT Gateway
-- Security Groups and Network ACLs
-- VPC Peering
-- SSH and Remote Connectivity
-- Identity and Access Management
+<h2>Technical toolkit</h2>
 
-Linux & Systems Administration
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=md-muwahid-amjad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F342171983%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=md-muwahid-amjad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F342171983%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Md Muwahid Amjad technology stack" />
+</picture>
+</p>
 
-- Linux Fundamentals
-- Ubuntu Administration
-- File and Directory Management
-- Permissions and Ownership
-- Process and Service Management
-- SSH and Command-Line Troubleshooting
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>AWS Cloud</strong><br /><sub>EC2, S3, VPC, IAM, CloudWatch, ALB</sub></td>
+<td width="25%" align="center"><strong>Networking</strong><br /><sub>Subnets, Routing, NAT, Security Groups</sub></td>
+<td width="25%" align="center"><strong>Linux &amp; OS</strong><br /><sub>Ubuntu, Linux CLI, Bash, SSH, PuTTY</sub></td>
+<td width="25%" align="center"><strong>DevOps &amp; IaC</strong><br /><sub>Git, GitHub, AWS CLI, Terraform (Learning)</sub></td>
+</tr>
+</table>
 
-DevOps & Automation — Learning
+<h2>Consistency signal</h2>
 
-- Git and GitHub
-- AWS CLI
-- Bash Scripting
-- Infrastructure as Code (Terraform)
-- CI/CD Pipelines
-- Docker Fundamentals
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=md-muwahid-amjad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F342171983%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=md-muwahid-amjad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F342171983%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Md Muwahid Amjad contribution activity" />
+</picture>
+</p>
 
-Featured Cloud Projects
+<h2>About &amp; Learning Roadmap</h2>
 
-01. AWS EC2 Web Server Deployment
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🚀 About Me</h3>
+<ul>
+<li>☁️ Learning and practicing AWS cloud services hands-on.</li>
+<li>🖥️ Configuring EC2, S3, VPC, IAM, EBS, and CloudWatch.</li>
+<li>🌐 Building secure cloud networking, routing tables, security groups, and NAT gateways.</li>
+<li>⚙️ Practicing Linux, Ubuntu, SSH, and AWS CLI fundamentals.</li>
+<li>🎯 Career goal: Junior Cloud Engineer or Cloud Support Engineer.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3>📚 Current Goals</h3>
+<ul>
+<li>Strengthen AWS networking, routing, and least-privilege IAM security.</li>
+<li>Advance Linux system administration &amp; automated Bash scripting.</li>
+<li>Build repeatable cloud infrastructure with Terraform (IaC).</li>
+<li>Implement CI/CD workflows and Docker containerization.</li>
+<li>Prepare for AWS Cloud Support Associate &amp; Junior Cloud Engineer interviews.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-Deployed and configured a cloud-based virtual server and practiced remote administration, network access, security group configuration, and connectivity troubleshooting.
+<hr />
 
-Core Technologies: EC2 · Linux · SSH · Security Groups
-
-02. AWS VPC Network Infrastructure
-
-Built a virtual network environment and explored subnet configuration, routing, Internet Gateway connectivity, and network security controls.
-
-Core Technologies: VPC · Subnets · CIDR · Route Tables · Internet Gateway
-
-03. Amazon S3 Static Website Hosting
-
-Hosted a static website using Amazon S3 and explored bucket policies, access permissions, website endpoints, and HTTPS delivery concepts.
-
-Core Technologies: S3 · IAM · Bucket Policies · HTML · CSS
-
-04. Load Balancing and High Availability
-
-Exploring application traffic distribution, health checks, target groups, and horizontal scaling using AWS load balancing and Auto Scaling services.
-
-Core Technologies: ALB · EC2 · Target Groups · Auto Scaling
-
-05. CloudFront Content Delivery
-
-Exploring CDN architecture, content caching, HTTPS, and secure delivery of static website content through Amazon CloudFront.
-
-Core Technologies: CloudFront · S3 · HTTPS · CDN
-
-Project status and descriptions should match the work actually completed. Add a repository link, architecture diagram, implementation steps, and screenshots to each finished project.
-
-Core Engineering Concepts
-
-- Cloud Infrastructure Provisioning
-- Network Architecture and Routing
-- Access Control and Least-Privilege Security
-- Infrastructure Monitoring and Troubleshooting
-- High Availability and Scalability
-- Static Website Deployment
-- Linux System Administration
-- Cloud Cost Awareness
-
-Current Learning Roadmap
-
-1. Strengthen AWS networking and security.
-2. Improve Linux administration and Bash scripting.
-3. Build repeatable infrastructure using Terraform.
-4. Learn Docker and CI/CD fundamentals.
-5. Develop production-oriented cloud architecture projects.
-
-Career Focus
-
-Target Roles: Junior Cloud Engineer · AWS Cloud Support Associate · Cloud Operations Engineer · Junior Infrastructure Engineer
-
----
-
-Contact
-
-Portfolio: YOUR_PORTFOLIO_URL
-
-LinkedIn: YOUR_LINKEDIN_URL
-
-Email: YOUR_PROFESSIONAL_EMAIL
-
----
-
-Building practical skills in cloud infrastructure, automation, and reliable systems engineering.
+<table width="100%">
+<tr>
+<td width="62%" valign="middle">
+<h2>Let’s talk about cloud infrastructure</h2>
+<p>Open to entry-level Cloud Engineer, Cloud Support Associate, and DevOps roles.</p>
+</td>
+<td width="38%" valign="middle" align="right">
+<p><a href="https://aws-portfolio-bice.vercel.app/">Portfolio</a> · <a href="https://github.com/Md-Muwahid-Amjad">GitHub</a></p>
+</td>
+</tr>
+</table>
