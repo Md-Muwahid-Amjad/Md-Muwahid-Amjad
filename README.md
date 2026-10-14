@@ -7,7 +7,7 @@
 <h2>Aspiring AWS Cloud Engineer | Cloud Infrastructure | Linux | Networking</h2>
 <p>Muwahid | Official Portfolio<br />
 Cloud Infrastructure &amp; Networking<br />
-https://mushahid-aws-portfolio.vercel.app/</p>
+https://aws-portfolio-bice.vercel.app/</p>
 <p><strong>● Building practical cloud skills &amp; sharing work in public</strong></p>
 
 <p><a href="https://github.com/Md-Muwahid-Amjad">GitHub</a> · <a href="https://aws-portfolio-bice.vercel.app/">Live Portfolio</a></p>
@@ -31,7 +31,7 @@ https://mushahid-aws-portfolio.vercel.app/</p>
 
 <p><sub>Md Muwahid Amjad | Official Portfolio 
 Cloud Infrastructure &amp; Networking 
- https://mushahid-aws-portfolio.vercel.app/</sub></p>
+https://aws-portfolio-bice.vercel.app/</sub></p>
 
 <h2>Proof at a glance</h2>
 
