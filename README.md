@@ -153,7 +153,7 @@ https://aws-portfolio-bice.vercel.app/</sub></p>
 <p>Open to entry-level Cloud Engineer, Cloud Support Associate, and DevOps roles.</p>
 </td>
 <td width="38%" valign="middle" align="right">
-<p><a href="https://mushahid-aws-portfolio.vercel.app/">Live Portfolio</a> · <a href="https://github.com/Md-Muwahid-Amjad">GitHub</a></p>
+<p><a href="https://aws-portfolio-bice.vercel.app/">Live Portfolio</a> · <a href="https://github.com/Md-Muwahid-Amjad">GitHub</a></p>
 </td>
 </tr>
 </table>
